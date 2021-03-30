@@ -23,6 +23,10 @@ cross v0.2.1:
     cross
 diesel_cli v1.4.1:
     diesel
+fcli v0.2.0:
+    fce
+frepl v0.5.2:
+    fce-repl
 ink_env v0.0.0:
     ink_env
 mdbook v0.4.4:
@@ -33,11 +37,15 @@ rustlings v4.3.0 (/Users/mlj/rustlings):
     rustlings
 rx v0.4.0 (https://github.com/cloudhead/rx?tag=v0.4.0#4235af85):
     rx
+spl-token-cli v2.0.9:
+    spl-token
 sqlx-cli v0.5.1:
     cargo-sqlx
     sqlx
 subkey v2.0.0 (https://github.com/paritytech/substrate#0d6953cc):
     subkey
+subsee v0.1.0 (https://github.com/ascjones/subsee#deaf901c):
+    subsee
 systemfd v0.3.0:
     systemfd
 viu v1.3.0:
