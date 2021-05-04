@@ -155,5 +155,4 @@ cask "visual-studio-code"
 cask "zoom"
 mas "DevCleaner", id: 1388020431
 mas "HiSuite", id: 1232508288
-mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
